@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://kthhealthdata.github.io/kthhealthdata"
 languageCode = "en-us"
 title = "Hugo Serif Theme"
 themesDir = "themes"
